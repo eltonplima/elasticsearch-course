@@ -8,7 +8,9 @@ https://raw.githubusercontent.com/elastic/kibana/master/config/kibana.yml
 
 ## Docker images
 
+```bash
 docker pull docker.elastic.co/elasticsearch/elasticsearch-oss:7.8.1
 docker pull docker.elastic.co/logstash/logstash-oss:7.8.1
 docker pull docker.elastic.co/kibana/kibana-oss:7.8.1
 docker pull docker.elastic.co/beats/metricbeat-oss:7.8.1
+```
